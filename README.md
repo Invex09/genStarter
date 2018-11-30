@@ -1,0 +1,2 @@
+# genStarter
+Generic project boilerplate
