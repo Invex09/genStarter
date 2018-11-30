@@ -508,3 +508,4 @@ wp-content/plugins/hello.php
 
 
 # End of https://www.gitignore.io/api/node,sass,macos,windows,laravel,composer,java-web,phpstorm,wordpress,reactnative,sublimetext,dreamweaver
+.idea
